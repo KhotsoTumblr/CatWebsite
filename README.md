@@ -40,8 +40,7 @@
         </figure>
       </section>
       <section>
-      
-        <h2>Cat Form</h2>
+      <h2>Cat Form</h2>
         <form action="https://freecatphotoapp.com/submit-cat-photo">
           <fieldset>
             <legend>Is your cat an indoor or outdoor cat?</legend>
@@ -56,8 +55,7 @@
           </fieldset>
           <input type="text" name="catphotourl" placeholder="cat photo URL" required>
           <button type="submit">Submit</button>
-        </form>
-        
+        </form>   
       </section>
     </main>
     <footer>
